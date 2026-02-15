@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "未来を想像して(再録)",
+  "base_artist": "SABOTEN",
+  "createdAt": "2026-02-15T17:02:43.088288Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未来を想像して",
+      "artist": "SABOTEN",
+      "has_synced": false,
+      "path": "select/pl_01_未来を想像して_SABOTEN.txt"
+    }
+  ]
+}
